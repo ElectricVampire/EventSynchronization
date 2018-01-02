@@ -1,0 +1,9 @@
+c:\users\pareeka2\documents\visual studio 2015\Projects\SyncEvents\SyncEvents\bin\Debug\SyncEvents.exe.config
+c:\users\pareeka2\documents\visual studio 2015\Projects\SyncEvents\SyncEvents\bin\Debug\SyncEvents.exe
+c:\users\pareeka2\documents\visual studio 2015\Projects\SyncEvents\SyncEvents\bin\Debug\SyncEvents.pdb
+c:\users\pareeka2\documents\visual studio 2015\Projects\SyncEvents\SyncEvents\obj\Debug\SyncEvents.csprojResolveAssemblyReference.cache
+c:\users\pareeka2\documents\visual studio 2015\Projects\SyncEvents\SyncEvents\obj\Debug\SyncEvents.Form1.resources
+c:\users\pareeka2\documents\visual studio 2015\Projects\SyncEvents\SyncEvents\obj\Debug\SyncEvents.Properties.Resources.resources
+c:\users\pareeka2\documents\visual studio 2015\Projects\SyncEvents\SyncEvents\obj\Debug\SyncEvents.csproj.GenerateResource.Cache
+c:\users\pareeka2\documents\visual studio 2015\Projects\SyncEvents\SyncEvents\obj\Debug\SyncEvents.exe
+c:\users\pareeka2\documents\visual studio 2015\Projects\SyncEvents\SyncEvents\obj\Debug\SyncEvents.pdb
